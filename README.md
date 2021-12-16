@@ -1,1 +1,2 @@
 # webpropia
+En esta página todo es Demo, aquí hago practicas para experimentar y hacer pruebas, el apartado de tetrix no me pertenece, no lo he hecho yo. y lo de el breakout usé el codigo de https://github.com/idranser/Breakout y le estoy metiendo modificaciones, me gustaria tener recomendaciones asi que si quereis recomendarme algo contactar conmigo
